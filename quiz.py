@@ -1,8 +1,8 @@
 import random
 import json
 
-def load_questions(filename):
-    with open(filename, 'r') as file:
+def load_questions(questions.json):
+    with open(questions.json, 'r') as file:
         return json.load(file)
 
 def quiz(questions):
