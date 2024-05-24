@@ -48,5 +48,139 @@
         "question": "Which event led to the Arab Spring?",
         "choices": ["A. Economic crisis", "B. Military coup", "C. Self-immolation of Mohamed Bouazizi", "D. Presidential election fraud"],
         "answer": "C"
-    }
-]
+    },
+    {
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "choices": ["A. Margaret Thatcher", "B. Theresa May", "C. Angela Merkel", "D. Jacinda Ardern"],
+        "answer": "A"
+    },
+    {
+        "question": "Which country is the largest producer of coffee in the world?",
+        "choices": ["A. Vietnam", "B. Colombia", "C. Brazil", "D. Ethiopia"],
+        "answer": "C"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choices": ["A. Venus", "B. Mars", "C. Jupiter", "D. Saturn"],
+        "answer": "B"
+    },
+    {
+        "question": "In which city is the headquarters of the United Nations located?",
+        "choices": ["A. Geneva", "B. Vienna", "C. New York City", "D. Paris"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "choices": ["A. Yen", "B. Yuan", "C. Won", "D. Ringgit"],
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "choices": ["A. Aldous Huxley", "B. George Orwell", "C. J.K. Rowling", "D. Leo Tolstoy"],
+        "answer": "B"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "choices": ["A. Oxygen", "B. Gold", "C. Osmium", "D. Oganesson"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "choices": ["A. Sahara", "B. Arabian", "C. Gobi", "D. Antarctic"],
+        "answer": "D"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "choices": ["A. Vincent van Gogh", "B. Pablo Picasso", "C. Leonardo da Vinci", "D. Claude Monet"],
+        "answer": "C"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "choices": ["A. Germany", "B. Brazil", "C. Argentina", "D. France"],
+        "answer": "D"
+    },
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "choices": ["A. Monaco", "B. Vatican City", "C. San Marino", "D. Liechtenstein"],
+        "answer": "B"
+    },
+    {
+        "question": "Who was the first man to walk on the moon?",
+        "choices": ["A. Yuri Gagarin", "B. Buzz Aldrin", "C. Neil Armstrong", "D. Michael Collins"],
+        "answer": "C"
+    },
+    {
+        "question": "Which river is the longest in the world?",
+        "choices": ["A. Amazon", "B. Nile", "C. Yangtze", "D. Mississippi"],
+        "answer": "B"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "choices": ["A. Isaac Newton", "B. Albert Einstein", "C. Galileo Galilei", "D. Niels Bohr"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choices": ["A. Sydney", "B. Melbourne", "C. Canberra", "D. Brisbane"],
+        "answer": "C"
+    },
+    {
+        "question": "Which language has the most native speakers worldwide?",
+        "choices": ["A. English", "B. Spanish", "C. Mandarin Chinese", "D. Hindi"],
+        "answer": "C"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "choices": ["A. Thomas Jefferson", "B. John Adams", "C. George Washington", "D. Abraham Lincoln"],
+        "answer": "C"
+    },
+    {
+        "question": "Which element has the highest melting point?",
+        "choices": ["A. Iron", "B. Gold", "C. Tungsten", "D. Platinum"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "choices": ["A. Toronto", "B. Vancouver", "C. Ottawa", "D. Montreal"],
+        "answer": "C"
+    },
+    {
+        "question": "Who is the author of the Harry Potter series?",
+        "choices": ["A. J.K. Rowling", "B. J.R.R. Tolkien", "C. George R.R. Martin", "D. C.S. Lewis"],
+        "answer": "A"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choices": ["A. South Korea", "B. Japan", "C. China", "D. Thailand"],
+        "answer": "B"
+    },
+    {
+        "question": "Which country has the largest population?",
+        "choices": ["A. India", "B. United States", "C. China", "D. Indonesia"],
+        "answer": "C"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "choices": ["A. Alexander Graham Bell", "B. Thomas Edison", "C. Nikola Tesla", "D. Guglielmo Marconi"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "choices": ["A. K2", "B. Kangchenjunga", "C. Mount Everest", "D. Lhotse"],
+        "answer": "C"
+    },
+    {
+        "question": "Which ocean is the largest by surface area?",
+        "choices": ["A. Atlantic", "B. Indian", "C. Arctic", "D. Pacific"],
+        "answer": "D"
+    },
+    {
+        "question": "Who is known as the Father of Modern Physics?",
+        "choices": ["A. Isaac Newton", "B. Galileo Galilei", "C. Albert Einstein", "D. Niels Bohr"],
+        "answer": "C"
+    },
+    {
+        "question": "Which country is home to the Great Barrier Reef?",
+        "choices": ["A. Australia", "B. New Zealand", "C. Indonesia", "D. Philippines"],
+        "answer": "A"
+    },
