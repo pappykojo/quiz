@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which country hosted the 2022 Winter Olympics?",
+        "choices": ["A. Canada", "B. Japan", "C. China", "D. Russia"],
+        "answer": "C"
+    },
+    {
+        "question": "Who is the current president of France (as of 2024)?",
+        "choices": ["A. Emmanuel Macron", "B. François Hollande", "C. Nicolas Sarkozy", "D. Marine Le Pen"],
+        "answer": "A"
+    },
+    {
+        "question": "Which company became the first to reach a market capitalization of $3 trillion?",
+        "choices": ["A. Microsoft", "B. Amazon", "C. Apple", "D. Google"],
+        "answer": "C"
+    },
+    {
+        "question": "In which year did the United Kingdom officially leave the European Union?",
+        "choices": ["A. 2016", "B. 2019", "C. 2020", "D. 2021"],
+        "answer": "C"
+    },
+    {
+        "question": "Which virus caused a global pandemic in 2020?",
+        "choices": ["A. SARS", "B. MERS", "C. H1N1", "D. COVID-19"],
+        "answer": "D"
+    },
+    {
+        "question": "What is the capital of Ukraine?",
+        "choices": ["A. Kyiv", "B. Lviv", "C. Odessa", "D. Kharkiv"],
+        "answer": "A"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choices": ["A. South Korea", "B. Japan", "C. China", "D. Thailand"],
+        "answer": "B"
+    },
+    {
+        "question": "What was the outcome of the COP26 climate summit in 2021?",
+        "choices": ["A. A legally binding agreement", "B. An agreement to phase out coal", "C. A commitment to limit global warming to 1.5°C", "D. No agreement reached"],
+        "answer": "C"
+    },
+    {
+        "question": "Which spacecraft was the first to reach interstellar space?",
+        "choices": ["A. Voyager 1", "B. Voyager 2", "C. New Horizons", "D. Pioneer 10"],
+        "answer": "A"
+    },
+    {
+        "question": "Which event led to the Arab Spring?",
+        "choices": ["A. Economic crisis", "B. Military coup", "C. Self-immolation of Mohamed Bouazizi", "D. Presidential election fraud"],
+        "answer": "C"
+    }
+]
